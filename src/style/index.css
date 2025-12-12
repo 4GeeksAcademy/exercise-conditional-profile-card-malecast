@@ -78,7 +78,7 @@
 }
 .widget ul.position-right {
   right: -27px;
-  left: ;
+  left: auto;
 }
 .widget ul li {
   list-style: none;
